@@ -28,6 +28,21 @@ Section: misc
 Priority: optional
 Description: TODO: Package description
 
+Package: ros-humble-data-logger
+Version: 0.0.0-0jammy
+Architecture: amd64
+Maintainer: f11 <eieioeiji0501@gmail.com>
+Installed-Size: 383
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), ros-humble-rclcpp, ros-humble-rclcpp-components, ros-humble-std-msgs
+Filename: ./ros-humble-data-logger_0.0.0-0jammy_amd64.deb
+Size: 98916
+MD5sum: 9d623074d351dcaaeff907dc2c83244d
+SHA1: c4f4e4c6cc04e134838e563fc88d975ad8d0d124
+SHA256: 05a1e2573e1b787422de5d304449bc76c38a2a10ad260ba033822614b40d7421
+Section: misc
+Priority: optional
+Description: TODO: Package description
+
 Package: ros-humble-jsk-footstep-msgs
 Version: 2.0.0-0jammy
 Architecture: amd64
